@@ -26,3 +26,20 @@ management and customer relations. Study in web development and design.
 - Basic knowledge of HTML, CSS, JS
 - Basic knowledge of ASP<i></i>.NET MVC 5, Web API, Entity Framework 6, Unit test
 - Basic knowledge GIT
+
+## Experience
+
+- Desktop software engineer - 07/2014 to current time  
+  **UNION SPACE GROUP**, Tashkent
+- DB developer - 09/2012 to 07/2014  
+  **FORTEK**, Tashkent
+
+## Education
+
+- Bachelor of Science: Information Technology, 2013  
+  **Tashkent University of Information Technologies**
+
+## Languages
+
+- Russian - native
+- English - pre intermediate
